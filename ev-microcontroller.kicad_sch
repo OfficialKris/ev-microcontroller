@@ -1,5 +1,21 @@
 (kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 313a87bc-8c4a-44cb-bd8b-9adaf69cd06e)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (title_block
+    (title "EV Microcontroller")
+    (date "2022-05-13")
+    (rev "0.1")
+    (company "Christian Kuklis")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
