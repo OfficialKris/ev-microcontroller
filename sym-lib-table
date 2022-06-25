@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/libraries/RP2040/RP2040.kicad_sym")(options "")(descr ""))
-  (lib (name "NCP1090DRG")(type "KiCad")(uri "${KIPRJMOD}/libraries/NCP1090DRG/NCP1090DRG.kicad_sym")(options "")(descr ""))
+  (lib (name "personal")(type "KiCad")(uri "${KIPRJMOD}/libraries/personal.pretty/personal.kicad_sym")(options "")(descr ""))
 )
