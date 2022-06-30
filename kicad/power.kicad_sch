@@ -2183,7 +2183,7 @@
     (in_bom yes) (on_board yes)
     (uuid d2bfb6b6-325c-48f8-aae3-e1f8021061a9)
     (property "Reference" "L?" (id 0) (at 176.53 106.68 0))
-    (property "Value" ".47µH" (id 1) (at 176.53 109.22 0))
+    (property "Value" "0.47µH" (id 1) (at 176.53 109.22 0))
     (property "Footprint" "" (id 2) (at 171.45 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
